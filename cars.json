@@ -43,7 +43,7 @@
     "color": "Red",
     "isAutomatic": false,
     "manufacturingDate": "2019-08-10",
-    "imageUrl": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBESDxEPERIRERERDw8QEA8PEhEPDw8RGBQZGRgUGBkcIS4lHB4rHxgYJzgmKy8xNTY1HCQ7QDw0Py40NTEBDAwMEA8QHBISGDEkIyUxNDQ3ODY0MTY0NDQ1NDExMTE0NDQ0MTY0NjQ0PTQ0MTE0NDQ0NDE9NDQ0ODQ0MTQ0NP/AABEIAKgBLAMBIgACEQEDEQH/xAAbAAABBQEBAAAAAAAAAAAAAAAAAQIDBAUGB//EAEEQAAIBAgMFBgMGBAMIAwAAAAECAAMRBBIhBRMUMUEGIlFhcYEykaFCUmKxwdEjQ3KSFoLwFTNTorKz4fFEg5P/xAAZAQEBAQEBAQAAAAAAAAAAAAAAAQIDBAX/xAApEQEAAgIABgEDBAMAAAAAAAAAAQIDEQQSITFBUWETIoFSobHwQnGR/9oADAMBAAIRAxEAPwBVw0kXDzUXDyQYedGGWuHki4eaQoRwoyjOFCPFCXxSi7qBQ3MN1L+7jSkCluo005dKRjJApNTjGSW3EhaUVWSRMsssZAxgV2EhaTMZC0ghaRMJOwjCsghIjSsnyQyQK2WLlljJFCQK4SOCSwKcUU4FcU4buWgkcKcCrki5JaFOOFOGlUJFCS0KcUU4FYU4oSWhTjhTgVQkcElsU44U4ZVBTjhTloU48U4FQU47dy2Kcdu4HRCjF3UuZImSQVd1Ddy0UjSsorZIhSTmMaBCVjGEe5kTtKGNIXMczyuzwGu0ru0e7SF4EbtIXMkYRpWQV2EaUlnJDJAqbuG7lvdxd3AqbuG7lvdxd1AqbuKKctinAU4FUU44U5aFOPFOBVFOPFOWhTjhTgVBTiinLYpxwpw0pinHinLYpxwpwKgpxwpy0KccKcCoKccKctinHCnAqCnHinLQpxRTkFUU47dy2Kcdu4G6RGNBmkbPAGMYxjWeRs8AZpG7RrPI2aGQ7SB2isZG0bDHMhaSkRhWGkLCRlZZKxMsCsUiZJZywywK2SLkljLDLAr5Iu7ljJF3cCvu4CnLGSKEgQBIoSWMkcEgVwkcKcnCRwSBAEjwknCR4SBXFOOFOT5IoSBAEihJYCRQkCAJHBJMEjgkCEJFCScJFCQIQkUJJwkUJAhCR2WShI7LAc1SRM8hLxhaBKzyNnjS0aTAUtIyYpMaYDTEIimJAaRGkR8CIEdomWSWhaAzLDLJLQtAjyxcsktKGM2mlNzSQGrWsCaaEdwHkzsdEHrqegMC4FkFXF0kJVqihhzUHMw9QNZmuzub1nzcrUaRZKI8iRZn97A/dlinQciyU6dNegCKlvYCTbKX/adH7xPoCZG22KY5JUPohtKWMQhiua5FtdQAfCVhQPVtPqY20vvt9RypOfY/tIm7SW/kv8m/aU3emo0ANvHUyhX2qF0Ww9NI2Ng9pj/wX/tf9oDtWvVLetxOXq7WY9ZVbEM/M6D/AF8pqtZtOoS1orG5dyvaZbXKAC17l7C3jygO1tK+qi3kxP6TibE2J58wDqB5nzl3D03XUhrHS5UqpvNWmInUQxEz5drh+0uFfQuFP4iBNahiEcAo6tfwOs8sXDWcpYGzZRcX0Iuv0v8A2zRw2CdTmptUQ+KEgH1B0Mx0dHpQWKFnIYHbOKpNkqLvlCh86Dv5b2Jy9bHnbxGk6fAbRp1lBQ6kXtGk2tBYoWPAjgIUzLFCx9ooEBoWKFjgIoEBLRcsW0W0gx80M0ivFvAeTG3jbwvAW8S8LxLwFvEiQgLAxItpQkIuWRs5HJWPyH5xoPlbH7Ro0Fz1aioDyBuWY+AA1MGxT9Kd/cn8pi7W2XUxFRKpyg0/hR6Yen6kXGY+unlLFZTaSptGpiR/BLUMOeddhatVHhTU/Cv4z7DrJsFggFCU13dO9yxuS56sSdWbzMrDC4u92qI2ul0A/WSM+LHOpTHpl/aXktKTZr0cKqchr946mPxDhEZz0Gnmekwmq4m1zVUDx5D52lWrWrPpvTUA6IjOt/XlL9K3pjmhO9XXzJ5+JlHaGMyAC/Qytid8ObBfIgBpmV6LPzqH/l/8zUcPee0JOale8m1doFnAvoSAfQyLaLg5fveXhDgF61G9gD+keMGv3nPuo/ITdeDyz4YnicceWevO3X8pbw9i6p439NASL+4jhhlXUA8upJlRV1Dd7PmBFrAKfHznWcFsUamNzPr0zGWuSdxPSPftvLhgObe5yj9Z0WAorWo5FYFgoUjUHMBpz58uk5GgGvq7DyWmh/MidPsva1KkgQUqjte5c7tLn0BnO+Lfasw1W/uYQ4zAlKl7fFSLj+qmwb6gke818DTXkZRx21TVKFaJXKW+J11BUi2g8bfKQjGVb2FNAfE1D+izn9G/qXSL113b+Lpqpo1dO5UVH05pUslv7yh/yyji7UsdRFPTfJVLgcs6ZSretiwPjKjvXdGV6iIhGpVSWHuT+kYmKp7xHvUr1UuEdjYLfQ2VQB9JuuC+9zCTkr227rDVQ6K46jXyPUSwJzmyce65s9NxTOtxTchD48uU6JGBAINwZxvXltp1rO42cYgitEEwpwgIgiiAsdGx0DAvC8bFgEIQgEIQgFo4LBRJRARKf0BPsBczD2t2io0lKU2V6h0FtVQ+JP6TpKWOpUkqu9RUIpG2ZSxN+gW2p6W/9jxzbVek1d3po9Om7MyC4yAX5BmNh6XnbFWs9bTqHK9rR0rDfftHl0V3dubu2gv4IvQeZ9rRp7W1bWQKo8bXJ9zOSFZNdXAHU7sBv6bsL+15aWixp74JX3YF8xpry8QM1yPMC09cTg9uExlbr9pMQ38w+1hIjtmqebt8zMLfJbMGJHgMpYC9tVDZh8ocYi2JLdNBkLC/it7j3E61tw/uGJrm+W7/ALQqHmzH3MBtCoORsfEAE/MynhXRwCCdRcZha86HZFPCmm29RRXB7vEValPCuLn7SISulviYC/Weifo1rzRG4+Orz82SbamdT89GM+MqE3NyfF7uR84jY9z3WZmPRS5/6RN2scWB/AwmyFGmV2rYTEXHjmqVm/KJUq7VL93FYelS5ZKeL2bhm5c/4RBGutr+881uIj/GrtGKfNmfhtnYqoLphqrDxSk5H5S4diV1YK6LTJANqhAYA+IFyJVo4fFK5fEY2g4DBr1toNibL1GRc9/YdJrdoNsU9KWHtuqSBFcWBqOwBZyB4/oB0nK2fJPTs61xY6/LOakqOVzhrG10UAfWNetZ1RRzFyxt58rekx1LFr3N76SeptCjSYGo+Z8oAVQSQPQfrO8zyV3aXGLc9tVh0WEwLVLaALoL5QbCTJ2YpZ8xuTcm+Z1v46X85H2f7UUX/hAqPMgq49b8x5zSx2JNPUn7Vvax/wDE5RktM7rLvNK66nU+z9D7Qv7kSddhYQc0v/mb95lDbP8Ao3i/7cPQD5TVpyWncykRSOkQj22+Ewr0xuWCMVzVG3pQ3NsilCbPoTqPD21KOGwpswpuNAQHaoG5nmCbj3ma222Ph8hGHbDE+0mre/3X7fTcNHDHQ01a3INdh9Zm7Xr4hGp8MlqasM6UTTpu2vI5lIyW8NZANsN5SxQ2srGzAe2kxNbf7XdWhh6jMDnJBPQNmsbcrkC/yE0tkue+p5Agj3vp9Jw3aDtQlA7umpdz3mANgi8gSenKbXYrba4kE6hhdXU6kHn7+vnPNk1PTzDtWZj8uveIIhaKJwdDhCIIsBYsSEDBixbRbQGwjrQtAbCOtC0ABhmhaFpRxfazFF96qknJUSmwGhUd1iP7Wv7zmtp4Y1N26BSEVydO8VOW2UN3Tz6zptuvbGVUuMrJRIA1AqKtyp8CVYeoAkGxNnlcfhRkWph3roCjAMEDEaEHQrcD0+k6TWbV3Hhz5orbU+XHnB1FDOUazEgFaSVXBXnmB0T1WdX/AInrikFqYOmapsy1EpIaOZjoS2UsrE6WB6jl07zE4FM9U8DSVRUOSoMGlRmQIyhbKL2LopubaMPWPfY1JEc8Hh2bPkVBhlAybot9n4hmNva3WYiJjs28XxdCqzkNT79SozELRSlTzEljkqjUjnpyA06CV6uGqF8gRs3KxprT5DWz829Tz5z2d9mULqBgqLq7aVNy9O/fyByt7jVkPorGcL2ywyUNrVaFGnloqlF0poGKhmp3NvMkkycptj0lCoqsQCqrcGo62NvCSYerUGbK7EZu6ysTodbX628fSSJh2P8AvCVWw7gN/mfDyiVGtoNB0A6T6XDYb0nmt0j08HEZq2+2vX5G8qnm7j/M0jbX4nY+5/WMd/E8+V/z9P8AXnKbqvMuSLcwdPpN5OMpSdRXZj4e1o3M6aGGp0y4uSFHeY3FyB0HmeXvLFaoXdnP2iTboPKZu7VMNvRfMuKRcxJvu8jFhb3U+0u30lw5oy7nWtOefFNJjrvZXYgdwEuxyIoGZmY+A6yLD7Gz7wndM1NS9UNXp51AYKSzZrKbkCxINzaTvjUw6/xKJqmvRfvLVNB6NItkLI2U6llYHQ6C32jM3FXp0t1TZt1UrNUBPxMgp02pKxHPKapv0vr0E8PE5Oa8x4h7OGpy0ifZmLwLUG3iZkZCGKNe4H3gftKR9NbkTsKe0N/hqbdbD15aft7TKfEmotLDNrUo4VFA0LJUzu27P9SFRbo2XzEdsBe61NdQHIQDwJuAP7re0YLamYby13ESc9QgxFqGdJh9gpe7ks3VQbKD4ec2MNs6gnw009xmP1nebuMVcUgc9DJBTe/wnkOhndVSlNbnIg8WyIPrMjE7aw6k/wAQObDSmC/j15fWSLTPhqYiHOMGHMGMFfKSb2sCSfDzmpiNv5gVSncHrUsfoP3nObTqHI55FrJYfiIB+l5rdorMs6iZiGhhrJTDsrPWxG+ZUVgo7mU2e4Oa6kgD8I8Zb7G4dsPtWpRy5FelvAnRCDcrzNufLpcCUmohkqV6ZqM2HAtnUIgqNRCtkY6ZRlGpsLg+Imv2RoU+MotTIK08I6MysHQuxViQQSOttD0nz99dvVp6AIsQRwkUoixIsBRCEIGII4RLRQIBFiWi2gFoWi2haUJaFotoWgefdosOlDFYjE16gyViuWgou7ZECqV18uegHjOe46uKYfO6FnAQA6KBrqdLn0+U9F7Q9naeLUkgbwC6ks6qzAaZsvyvrPPttbPqYcrSq0KhFs6XrKyHoSvPlf1m69OsTpi0RPSY2iG28epOXEVLa2/31/LkJsYDa2LekrnF4gMc1wtRgLhiNAwv0nJs9AHvUqgPk6/tJKeNpqLKcSoHIB1yj2l3P6k1H6W5iO0u0Ed1XFVCFYgXquCR520lCpt3EVHL1aiszFAzs2Zio01PM2HSZ7VaTEsXrgnUkkE39jFdVA1qVlBse8rD63mq3yR1i38MzTHPSatvA1HrsFD0kDMVFSoWSnyvdmAOXXSaO1Oy+OoLmqU1YG1itRAjX5WY2U/O85rD4tFXKKitqdaiNfXzvrL1HtBiUUU6eMemg03dN3CW8MpawHpNWtltHW2/yla4q9q6/EqNSsAxDGmGBsRcVLHwzA2PtFphmN6aM7cxkp5z9AZbO28Qf/l1PZj+8Y20azc8VWI8BUqAfLNOcYrT6/61OSv9hZqYdxg6aVbh2q1qzq3dZEKIqXH2bhWNvA+cZhGJpKTzygH1GkrGqCSXdn/rYkA+Nup9Y44pbfF6AC89eCn09zMuGefqRERC5i1NW1DLiC1IhqdSlT3oVWprmUgkDLyN7/e53molBFRKW7z7pGqI1LvsHIUhiCCFsWIHx2JToGvi7VrKcPhwovvQDVvY7ytSUU1XxChQH/8As+U2Lx1SlQpUye9TLB1cd1yyJUZWHQZXKnke6ORAnhtO5mXriNREIdjbbdcQoRaLUy4PDCm1TO1/izMM5f8AFe/tpL2BxvDVHyrnIYhe9YC2l728BEwuIq0qtPEUymV6ZrCuyo+KWmjFXps/U5lKB7XN115gUsPWsB/DRjqc7l7m/le30nTBNYndnPLFpj7W0/ait9laa+oLH85Ads4yroKlRvw0hl/6BeQ4bGAG7bpf6aYv81AP1mtR2tQtZ3B9KZf/ALjuPpPTbNjjs4RhvPeWXwtdjmdHBP2qpCE+7kS5Q2PXb7I9FD1PqisJrYbbeEUW3lX/ACilR/7aLLabewNrNnqDwq1q1YfJ2InOeJjxDpGH3LCrYE0heo6JbnnTEC3/ACTB2xiKZRFSolQ58zBBUFgAeeZR1M7jHYzZtbDVcOtOjT3iModERCjc1bQdCAfaeW1UNNyj2DAkHXunzB6ic755tXlbri1O3Z0aq5HRKa0mxA0qI5zGotJTvAeac7G3XOeRsOp7DYdu87qwqCkiuXGVs5d73HjlVL+d5xGw9q0TTFCsjVCFqoi0iods62ym4Nx9dT7endnaRp0BnH8SoQ7i5bIAoVEv1yoqj2M4Q6toCOAjFePBlABFtFBjgYDbQtHRZBjrSMkXDGPSpLVJxGhVGEMdw0vXEQ2lFE0I00peYCMZRKKDLIna0vsgkbUhDLMqYgDmZjbZfD16Zp1bkc1ZdHRvvKehnR1MGjcwJUfY1Juay6geRbS2Kwc7t94vQsMjAeB5gzNbZdYfZHznsr9n6J6fWQv2ZpHqRHLC7l5Zs3BrTcPWp7yxBWmTZCfxePpOmftTWOgpqPXWdO/ZRDyY/SQP2SXo/wAxEV15NuTrdoKrc0pn1QH85QxGONQFWp07Hnamo+oE7c9kPxr8ow9jfxr8jGvk28/yp/w091ufrGGmnRFHoLT0L/BY++vyMX/BKH+YPlJym3ngw6H7PyJlY0MhsfY9DPT17EU+tRvYR/8AgnDkWZ3Pl3f2jlNuE2Nth8PnQM6pUXKzIQtRD0dGPwuOXmNNNCL+Ho4V6bJWxAYZt6r5KpxG85NnGUghlJB7x5LrpadWvYTB9d5/+hH5CT0+xOCB1pu1vvVqlvoZOWTcOLx+IFZKeHwtNko0UKFzc1Kozu4zG5AALtZQfMkm1o6ex67cqbn2M9Rw2yKFNQqUwoHIa2EuLSUchaa5Y8m3l1HstiX/AJZHrpNCj2JrH4so97z0RRaSZpeWE3Lh6HYX7z/ITSodi6A+LM3yE6cNHB5dQdWNR7M4Zf5Sn+rWWl2Jhx/Jpf2Kf0l/PFDSCCjgEX4URf6VUS0tMRoeOzyB4QRQojM8M8jSWwjpBnhnkE14XkO8hvIGImKHjJ6eKA6znmrxy4jzgdMuMHjHcWPGc0MV5xwxR8ZR0ZxQ8YnFCc9xPnDifOB0HFCIcSJg8V5w4qVluHEiMOImNxUbxPnA2t+IhxExuK84cVKNjfiJv5j8TDifOUbG/hv5jcTDifOBsb8Q34mPxMOJ84GxvxDfzH4mHEwNkV4b+Y/Ew4mBsb+O38xuKi8VA2N/FFeY3FQ4qBtb+G/mNxUOKkG1xEN/MXiovFQNriIcRMXiocXA2+JhxExOKi8VINriIcRMXiocX5yNNrf+cTf+cxuL84cX5wMHfwFeEIDt/F38IQyOIhxEIStDiIcRCEMjiIcRCEBOIhxEIShN/DiIQgHEQ38IQDfw4iEJQcRDiIQgHEQ4iEIBxEXiIQkBxEOIhCAcRDiIQgLxEOI84QgHEecOI84QgHEw4jzhCQHExOJhCRocTDiYQgf/2Q==",
+    "imageUrl": "https://weudealerimagesprd.blob.core.windows.net/be1058/news/Focus-RS-Option-Pack_Ford-Performance_Belgie_2000x1280.jpg",
     "fuelType": "Diesel",
     "features": ["Keyless Entry", "Backup Camera", "Satellite Radio"],
     "owner": {
@@ -61,8 +61,7 @@
     "color": "Black",
     "isAutomatic": true,
     "manufacturingDate": "2022-04-05",
-    "imageUrl": "https://example.com/chevrolet-malibu.jpg",
-    "fuelType": "Gasoline",
+    "imageUrl": "https://example.com/chevrolet-malibu.jpghttps://di-uploads-pod42.dealerinspire.com/autogallerychevroletbuickgmc1/uploads/2023/07/Driver-side-view-2024-Malibu-1024x682.jpgGasoline",
     "features": ["Remote Start", "Lane Departure Warning", "Wireless Charging"],
     "owner": {
       "id": 204,
@@ -79,7 +78,7 @@
     "color": "White",
     "isAutomatic": true,
     "manufacturingDate": "2023-01-20",
-    "imageUrl": "https://example.com/bmw-x5.jpg",
+    "imageUrl": "https://www.loubachrodtbmw.com/blogs/2288/wp-content/uploads/2022/04/2022-bmw-x5.jpg",
     "fuelType": "Electric",
     "features": ["Panoramic Roof", "Heated Seats", "Gesture Control"],
     "owner": {
@@ -97,7 +96,7 @@
     "color": "Silver",
     "isAutomatic": true,
     "manufacturingDate": "2021-07-15",
-    "imageUrl": "https://example.com/mercedes-c-class.jpg",
+    "imageUrl": "https://ymimg1.b8cdn.com/resized/article/5955/pictures/4283405/listing_main_Mercedes_Benz__C_Class__1_.jpg",
     "fuelType": "Petrol",
     "features": ["Adaptive Cruise Control", "Blind Spot Monitoring", "Wireless Charging"],
     "owner": {
@@ -115,7 +114,7 @@
     "color": "Gray",
     "isAutomatic": true,
     "manufacturingDate": "2020-11-30",
-    "imageUrl": "https://example.com/audi-a4.jpg",
+    "imageUrl": "https://assets.autoweek.nl/m/013ygvibw3y8_800.jpg",
     "fuelType": "Diesel",
     "features": ["Virtual Cockpit", "Apple CarPlay", "Quattro All-Wheel Drive"],
     "owner": {
@@ -133,7 +132,7 @@
     "color": "Green",
     "isAutomatic": false,
     "manufacturingDate": "2019-04-18",
-    "imageUrl": "https://example.com/nissan-altima.jpg",
+    "imageUrl": "https://media.ed.edmunds-media.com/nissan/altima/2023/oem/2023_nissan_altima_sedan_vc-t-sr_fq_oem_1_1280.jpg",
     "fuelType": "Gasoline",
     "features": ["Push Button Start", "Dual-Zone Climate Control", "Intelligent Forward Collision Warning"],
     "owner": {
@@ -151,7 +150,7 @@
     "color": "Purple",
     "isAutomatic": true,
     "manufacturingDate": "2022-09-25",
-    "imageUrl": "https://example.com/hyundai-elantra.jpg",
+    "imageUrl": "https://assets.autoweek.nl/m/hbry4krbnfoo_800.jpg",
     "fuelType": "Hybrid",
     "features": ["Smart Cruise Control", "Lane Keeping Assist", "Wireless Android Auto"],
     "owner": {
@@ -169,7 +168,7 @@
     "color": "Yellow",
     "isAutomatic": false,
     "manufacturingDate": "2020-12-10",
-    "imageUrl": "https://example.com/vw-jetta.jpg",
+    "imageUrl": "https://www.motortrend.com/uploads/2023/07/2024-Volkswagen-Jetta-GLI-40th-Anniversary-Edition-VW-11.jpg?fit=around%7C875:492",
     "fuelType": "Diesel",
     "features": ["Heated Mirrors", "Rearview Camera", "App-Connect"],
     "owner": {

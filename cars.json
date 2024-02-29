@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "brand": "Toyota",
+    "model": "Corolla",
+    "year": 2020,
+    "color": "Blue",
+    "isAutomatic": true,
+    "manufacturingDate": "2020-05-12",
+    "imageUrl": "https://example.com/toyota-corolla.jpg",
+    "fuelType": "Petrol",
+    "features": ["Air Conditioning", "Power Windows", "Bluetooth"],
+    "owner": {
+      "id": 201,
+      "name": "Alex Johnson",
+      "age": 28,
+      "image": "https://example.com/alex-johnson.jpg"
+    }
+  },
+  {
+    "id": 2,
+    "brand": "Honda",
+    "model": "Civic",
+    "year": 2021,
+    "color": "Silver",
+    "isAutomatic": true,
+    "manufacturingDate": "2021-02-28",
+    "imageUrl": "https://example.com/honda-civic.jpg",
+    "fuelType": "Hybrid",
+    "features": ["Navigation System", "Leather Seats", "Sunroof"],
+    "owner": {
+      "id": 202,
+      "name": "Emily Williams",
+      "age": 32,
+      "image": "https://example.com/emily-williams.jpg"
+    }
+  },
+  {
+    "id": 3,
+    "brand": "Ford",
+    "model": "Focus",
+    "year": 2019,
+    "color": "Red",
+    "isAutomatic": false,
+    "manufacturingDate": "2019-08-10",
+    "imageUrl": "https://example.com/ford-focus.jpg",
+    "fuelType": "Diesel",
+    "features": ["Keyless Entry", "Backup Camera", "Satellite Radio"],
+    "owner": {
+      "id": 203,
+      "name": "Michael Davis",
+      "age": 35,
+      "image": "https://example.com/michael-davis.jpg"
+    }
+  },
+  {
+    "id": 4,
+    "brand": "Chevrolet",
+    "model": "Malibu",
+    "year": 2022,
+    "color": "Black",
+    "isAutomatic": true,
+    "manufacturingDate": "2022-04-05",
+    "imageUrl": "https://example.com/chevrolet-malibu.jpg",
+    "fuelType": "Gasoline",
+    "features": ["Remote Start", "Lane Departure Warning", "Wireless Charging"],
+    "owner": {
+      "id": 204,
+      "name": "Sophia Robinson",
+      "age": 29,
+      "image": "https://example.com/sophia-robinson.jpg"
+    }
+  },
+  {
+    "id": 5,
+    "brand": "BMW",
+    "model": "X5",
+    "year": 2023,
+    "color": "White",
+    "isAutomatic": true,
+    "manufacturingDate": "2023-01-20",
+    "imageUrl": "https://example.com/bmw-x5.jpg",
+    "fuelType": "Electric",
+    "features": ["Panoramic Roof", "Heated Seats", "Gesture Control"],
+    "owner": {
+      "id": 205,
+      "name": "Daniel Miller",
+      "age": 31,
+      "image": "https://example.com/daniel-miller.jpg"
+    }
+  },
+  {
+    "id": 6,
+    "brand": "Mercedes-Benz",
+    "model": "C-Class",
+    "year": 2021,
+    "color": "Silver",
+    "isAutomatic": true,
+    "manufacturingDate": "2021-07-15",
+    "imageUrl": "https://example.com/mercedes-c-class.jpg",
+    "fuelType": "Petrol",
+    "features": ["Adaptive Cruise Control", "Blind Spot Monitoring", "Wireless Charging"],
+    "owner": {
+      "id": 206,
+      "name": "Olivia Taylor",
+      "age": 33,
+      "image": "https://example.com/olivia-taylor.jpg"
+    }
+  },
+  {
+    "id": 7,
+    "brand": "Audi",
+    "model": "A4",
+    "year": 2020,
+    "color": "Gray",
+    "isAutomatic": true,
+    "manufacturingDate": "2020-11-30",
+    "imageUrl": "https://example.com/audi-a4.jpg",
+    "fuelType": "Diesel",
+    "features": ["Virtual Cockpit", "Apple CarPlay", "Quattro All-Wheel Drive"],
+    "owner": {
+      "id": 207,
+      "name": "David Brown",
+      "age": 36,
+      "image": "https://example.com/david-brown.jpg"
+    }
+  },
+  {
+    "id": 8,
+    "brand": "Nissan",
+    "model": "Altima",
+    "year": 2019,
+    "color": "Green",
+    "isAutomatic": false,
+    "manufacturingDate": "2019-04-18",
+    "imageUrl": "https://example.com/nissan-altima.jpg",
+    "fuelType": "Gasoline",
+    "features": ["Push Button Start", "Dual-Zone Climate Control", "Intelligent Forward Collision Warning"],
+    "owner": {
+      "id": 208,
+      "name": "Isabella Martinez",
+      "age": 30,
+      "image": "https://example.com/isabella-martinez.jpg"
+    }
+  },
+  {
+    "id": 9,
+    "brand": "Hyundai",
+    "model": "Elantra",
+    "year": 2022,
+    "color": "Purple",
+    "isAutomatic": true,
+    "manufacturingDate": "2022-09-25",
+    "imageUrl": "https://example.com/hyundai-elantra.jpg",
+    "fuelType": "Hybrid",
+    "features": ["Smart Cruise Control", "Lane Keeping Assist", "Wireless Android Auto"],
+    "owner": {
+      "id": 209,
+      "name": "William Turner",
+      "age": 29,
+      "image": "https://example.com/william-turner.jpg"
+    }
+  },
+  {
+    "id": 10,
+    "brand": "Volkswagen",
+    "model": "Jetta",
+    "year": 2020,
+    "color": "Yellow",
+    "isAutomatic": false,
+    "manufacturingDate": "2020-12-10",
+    "imageUrl": "https://example.com/vw-jetta.jpg",
+    "fuelType": "Diesel",
+    "features": ["Heated Mirrors", "Rearview Camera", "App-Connect"],
+    "owner": {
+      "id": 210,
+      "name": "Emma Garcia",
+      "age": 27,
+      "image": "https://example.com/emma-garcia.jpg"
+    }
+  }
+]
